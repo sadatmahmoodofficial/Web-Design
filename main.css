@@ -34,3 +34,5 @@ table, tr, th, td, caption {
 }
 
 summary {font-family: Georgia; font-size: large;}
+
+form {font-family: Georgia; font-size: large; font-style: italic; text-align: justify;}
