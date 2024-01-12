@@ -29,8 +29,8 @@ table, tr, th, td, caption {
     border-width: 0.4rcap;
     border-style:ridge;
     padding: 0.5rem;
-    
+
     text-align: center;
 }
 
-summary {text-decoration:underline; font-family: Georgia; font-size: large;}
+summary {font-family: Georgia; font-size: large;}
