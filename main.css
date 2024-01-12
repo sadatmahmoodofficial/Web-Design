@@ -23,9 +23,12 @@ table, tr, th, td, caption {
 
     border: 1px solid black;
 
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Helvetica;
 
     border-collapse: collapse;
-
+    border-width: 0.4rcap;
+    border-style:solid;
     padding: 0.5rem;
 }
+
+summary {text-decoration:underline; font-family: Georgia; font-size: large;}
